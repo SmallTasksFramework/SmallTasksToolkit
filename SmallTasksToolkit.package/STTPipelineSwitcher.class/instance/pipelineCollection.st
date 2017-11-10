@@ -1,0 +1,3 @@
+protected
+pipelineCollection
+	^ pipelineCollection 
