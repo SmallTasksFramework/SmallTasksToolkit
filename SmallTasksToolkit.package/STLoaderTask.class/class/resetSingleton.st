@@ -1,0 +1,3 @@
+singleton
+resetSingleton
+	instance := nil

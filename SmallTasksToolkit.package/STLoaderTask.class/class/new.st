@@ -1,4 +1,3 @@
 instance creation
 new
-	Instance ifNil: [ Instance := self basicNew initialize ].
-	^ Instance
+	^self error: 'I am a singleton. Please use my singleton protocol'

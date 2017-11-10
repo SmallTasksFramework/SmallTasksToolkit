@@ -2,11 +2,11 @@
 	"commentStamp" : "",
 	"super" : "STProcessorTask",
 	"category" : "SmallTasksToolkit-Model",
-	"classinstvars" : [ ],
-	"pools" : [ ],
-	"classvars" : [
-		"Instance"
+	"classinstvars" : [
+		"instance"
 	],
+	"pools" : [ ],
+	"classvars" : [ ],
 	"instvars" : [
 		"hashtag"
 	],

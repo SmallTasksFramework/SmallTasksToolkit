@@ -2,5 +2,6 @@ initialization
 initialize
 	super initialize.
 	self
-		pipelineCollection: OrderedCollection new;
+		prepare;pipelineCollection: OrderedCollection new;
+		
 		pipeline: self createPipeline 

@@ -3,5 +3,5 @@ defaultCurrentTasks
 	| tasks |
 	tasks := OrderedCollection new.
 	^ tasks
-		add: (STLoaderTask newWith: 'Tweets Loader' in: tasks);
+		add: (STLoaderTask singleton name: 'Tweets Loader'; tasks: tasks);
 		yourself
