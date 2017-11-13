@@ -1,0 +1,17 @@
+{
+	"instance" : {
+		"prepare" : "UlisesJeremias 11/11/2017 03:04",
+		"createPipeline" : "UlisesJeremias 11/11/2017 02:29",
+		"nextPipeline" : "UlisesJeremias 11/11/2017 02:25",
+		"children" : "UlisesJeremias 11/11/2017 02:22",
+		"add:" : "UlisesJeremias 11/11/2017 02:43",
+		"finishPipeline" : "UlisesJeremias 11/11/2017 02:18",
+		"renderContentOn:" : "UlisesJeremias 11/12/2017 21:42",
+		"renderAppConfigButtonOn:" : "UlisesJeremias 11/11/2017 03:10",
+		"initialize" : "UlisesJeremias 11/12/2017 22:28",
+		"previousPipeline" : "UlisesJeremias 11/11/2017 02:25",
+		"renderCheckButtonOn:" : "UlisesJeremias 11/11/2017 01:46",
+		"renderSwitchOptionsOn:" : "UlisesJeremias 11/11/2017 01:47"
+	},
+	"class" : { }
+}

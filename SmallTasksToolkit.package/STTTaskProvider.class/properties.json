@@ -1,12 +1,13 @@
 {
 	"commentStamp" : "",
-	"super" : "WAComponent",
+	"super" : "STTTaskProviderComponent",
 	"category" : "SmallTasksToolkit-Component",
 	"classinstvars" : [ ],
 	"pools" : [ ],
 	"classvars" : [ ],
 	"instvars" : [
-		"taskCollection"
+		"taskCollection",
+		"pipelineSwitcher"
 	],
 	"name" : "STTTaskProvider",
 	"type" : "normal"

@@ -1,3 +1,3 @@
 action
 prepare
-	STLoaderTask resetSingleton.
+	STTTwitterSettings resetSingleton.

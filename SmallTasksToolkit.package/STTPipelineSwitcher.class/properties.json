@@ -1,14 +1,11 @@
 {
 	"commentStamp" : "",
-	"super" : "WAComponent",
+	"super" : "STTTaskProviderComponent",
 	"category" : "SmallTasksToolkit-Component",
 	"classinstvars" : [ ],
 	"pools" : [ ],
 	"classvars" : [ ],
-	"instvars" : [
-		"pipelineCollection",
-		"pipeline"
-	],
+	"instvars" : [ ],
 	"name" : "STTPipelineSwitcher",
 	"type" : "normal"
 }

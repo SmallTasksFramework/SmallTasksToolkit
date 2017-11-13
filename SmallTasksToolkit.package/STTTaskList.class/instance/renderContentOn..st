@@ -11,7 +11,7 @@ renderContentOn: html
 				do:
 					(html jQuery ajax
 						callback: [ :passengers | 
-							newTask := passengers first taskComponentIn: self tasks.
+							newTask := passengers first taskComponentIn: self pipelineSwitcher pipeline tasks.
 							self addTask: newTask ]
 							passengers: ((html jQuery expression: (JSStream on: 'event.target')) closest: 'li');
 						script: [ :s | s << ((s jQuery id: 'currentTasks') append: newTask) ]));

@@ -1,3 +1,3 @@
 accessing
 addTask: aWAProcessorTask
-	self tasks add: aWAProcessorTask 
+	self pipelineSwitcher add: aWAProcessorTask

@@ -13,7 +13,7 @@ defaultServicesProvider
 				id: 'mapper');
 		add:
 			(STTTaskOption new
-				name: 'Reporter Task';
+				name: 'File Reporter Task';
 				id: 'reporter');
 		add:
 			(STTTaskOption new

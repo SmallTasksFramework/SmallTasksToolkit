@@ -5,7 +5,11 @@
 	"classinstvars" : [ ],
 	"pools" : [ ],
 	"classvars" : [ ],
-	"instvars" : [ ],
+	"instvars" : [
+		"filterOption",
+		"filterOperation",
+		"filterValue"
+	],
 	"name" : "STFilterTask",
 	"type" : "normal"
 }

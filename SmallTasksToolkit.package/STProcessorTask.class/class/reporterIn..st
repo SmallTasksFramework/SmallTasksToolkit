@@ -1,3 +1,3 @@
 accessing
 reporterIn: aCollection
-	^ STReporterTask newWith: 'Reporter Task' in: aCollection
+	^ STFileReporterTask newWith: 'File Reporter Task' in: aCollection

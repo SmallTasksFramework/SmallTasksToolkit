@@ -1,0 +1,13 @@
+{
+	"instance" : {
+		"hashtag" : " 11/10/2017 16:55:08",
+		"hashtag:" : " 11/10/2017 16:55:08",
+		"initialize" : "UlisesJeremias 11/12/2017 22:04",
+		"renderContentOn:" : "UlisesJeremias 11/12/2017 21:01"
+	},
+	"class" : {
+		"new" : " 11/10/2017 16:55:08",
+		"resetSingleton" : " 11/10/2017 16:55:08",
+		"singleton" : " 11/10/2017 16:55:08"
+	}
+}

@@ -1,0 +1,3 @@
+accessing
+generateSmallTask
+	^ self subclassResponsibility 
