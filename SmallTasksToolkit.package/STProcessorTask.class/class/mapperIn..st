@@ -1,3 +1,3 @@
 accessing
 mapperIn: aCollection
-	^ STMapperTask newWith: 'Mapper Task' in: aCollection
+	 ^STMapperTask newWith: 'Mapper Task' in: aCollection

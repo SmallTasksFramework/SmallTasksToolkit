@@ -1,0 +1,3 @@
+actions
+resetPipelinesCollection
+	PipelinesCollection := nil

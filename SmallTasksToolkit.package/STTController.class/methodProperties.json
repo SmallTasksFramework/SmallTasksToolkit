@@ -1,7 +1,9 @@
 {
 	"instance" : { },
 	"class" : {
+		"app" : "UlisesJeremias 11/13/2017 01:17",
+		"component" : "UlisesJeremias 11/13/2017 00:05",
 		"create:" : "UlisesJeremias 11/10/2017 23:23",
-		"taskController" : "UlisesJeremias 11/10/2017 23:24"
+		"tasks" : "UlisesJeremias 11/12/2017 23:59"
 	}
 }

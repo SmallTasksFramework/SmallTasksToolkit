@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "",
+	"super" : "STTController",
+	"category" : "SmallTasksToolkit-Controller",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [
+		"ComponentsCollection",
+		"Settings"
+	],
+	"instvars" : [ ],
+	"name" : "STTAppController",
+	"type" : "normal"
+}

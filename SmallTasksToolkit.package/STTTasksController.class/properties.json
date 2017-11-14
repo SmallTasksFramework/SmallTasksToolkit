@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "",
+	"super" : "STTController",
+	"category" : "SmallTasksToolkit-Controller",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [
+		"PipelinesCollection"
+	],
+	"instvars" : [ ],
+	"name" : "STTTasksController",
+	"type" : "normal"
+}

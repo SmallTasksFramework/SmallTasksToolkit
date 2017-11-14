@@ -1,0 +1,3 @@
+builder
+resetSettings
+	Settings := nil

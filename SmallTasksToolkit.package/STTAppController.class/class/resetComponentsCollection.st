@@ -1,0 +1,3 @@
+builder
+resetComponentsCollection
+	ComponentsCollection  := nil

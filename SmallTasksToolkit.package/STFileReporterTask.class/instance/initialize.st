@@ -1,4 +1,4 @@
 initialization
 initialize
 	super initialize.
-	self fileExtension: self fileExtensions first
+	self path: 'defaultPath';fileExtension: self fileExtensions first

@@ -1,6 +1,6 @@
 {
 	"commentStamp" : "",
-	"super" : "WAComponent",
+	"super" : "STTComponent",
 	"category" : "SmallTasksToolkit-Component",
 	"classinstvars" : [ ],
 	"pools" : [ ],

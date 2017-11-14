@@ -1,21 +1,28 @@
 accessing
 transformers
-	^ OrderedCollection
-		with:
-			{'counter'.
-			CounterTransformer new}
-		with:
-			{'average'.
-			AverageCounter new}
-		with:
-			{'tweet to string'.
-			TweetString new}
-		with:
-			{'user'.
-			[ :anObject | anObject user ]}
-		with:
-			{'text'.
-			[ :anObject | anObject text ]}
-		with:
-			{'text substrings'.
-			[ :anObject | anObject text substrings  ]}
+	^ OrderedCollection new
+		add:
+			{'Counter'.
+			CounterTransformer new};
+		add:
+			{'Average'.
+			AverageCounter new};
+		add:
+			{'Tweet to String'.
+			TweetString new};
+		add:
+			{'Tweet to Text'.
+			[ :anObject | anObject text ]};
+		add:
+			{'Tweet to Text Substrings'.
+			[ :anObject | anObject text substrings ]};
+		add:
+			{'Tweet to User'.
+			[ :anObject | anObject user ]};
+		add:
+			{'Tweet to Seaside Component'.
+			TweetComponent new};
+		add:
+			{'User to Seaside Component'.
+			UserComponent new};
+		yourself

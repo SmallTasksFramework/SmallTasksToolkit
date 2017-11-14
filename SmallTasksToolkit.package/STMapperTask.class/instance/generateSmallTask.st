@@ -1,3 +1,3 @@
 accessing
 generateSmallTask
-	^ (SmallTask prepare: self transformer )mapper
+	^ (SmallTask prepare: self transformer second) mapper

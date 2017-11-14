@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "",
+	"super" : "AbstractApp",
+	"category" : "SmallTasksToolkit-App",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"tasks"
+	],
+	"name" : "SmallTasksTwitterApp",
+	"type" : "normal"
+}

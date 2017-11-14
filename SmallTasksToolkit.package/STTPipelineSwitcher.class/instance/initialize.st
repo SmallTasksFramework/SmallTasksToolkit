@@ -3,4 +3,4 @@ initialize
 	super initialize.
 	self
 		prepare;
-		pipeline: self createPipeline. self pipelinesCollection inspect
+		pipeline: (SmallTasksToolkit controller tasks pipelinesCollection ifNotEmpty: [ :each | each first ] ifEmpty: [ self createPipeline  ])

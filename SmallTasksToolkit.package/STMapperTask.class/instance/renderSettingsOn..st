@@ -6,7 +6,7 @@ renderSettingsOn: html
 				class: 'text-right';
 				with: [ html label
 						for: 'transformer';
-						with: 'Transformer' ].
+						with: self text ].
 			html tbsColumn
 				mediumSize: 4;
 				class: 'text-left';

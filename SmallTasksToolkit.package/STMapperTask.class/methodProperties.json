@@ -1,11 +1,12 @@
 {
 	"instance" : {
-		"generateSmallTask" : "UlisesJeremias 11/12/2017 22:19",
-		"renderSettingsOn:" : "UlisesJeremias 11/12/2017 22:23",
-		"transformers" : "UlisesJeremias 11/12/2017 22:18",
+		"generateSmallTask" : "UlisesJeremias 11/13/2017 15:48",
+		"renderSettingsOn:" : "UlisesJeremias 11/14/2017 13:40",
+		"transformers" : "UlisesJeremias 11/14/2017 16:00",
 		"initialize" : "UlisesJeremias 11/12/2017 22:22",
 		"transformer" : "UlisesJeremias 11/12/2017 22:13",
-		"transformer:" : "UlisesJeremias 11/12/2017 22:13"
+		"transformer:" : "UlisesJeremias 11/12/2017 22:13",
+		"text" : "UlisesJeremias 11/14/2017 13:40"
 	},
 	"class" : {
 		"renderSettingsOn:" : " 11/10/2017 16:55:08"

@@ -19,5 +19,5 @@ renderContentOn: html
 								id: 'hashtag';
 								placeholder: 'Enter a hashtag';
 								callback: [ :value | self hashtag: value ];
-								value: hashtag;
+								value: self hashtag;
 								onChange: html jQuery ajax serializeThis ] ] ]

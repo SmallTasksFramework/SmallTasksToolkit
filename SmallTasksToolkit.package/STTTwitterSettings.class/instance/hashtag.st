@@ -1,3 +1,3 @@
 accessing
 hashtag
-	^ hashtag 
+	^ self settings at: #hashtag

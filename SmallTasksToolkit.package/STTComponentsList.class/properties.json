@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "",
+	"super" : "STTComponent",
+	"category" : "SmallTasksToolkit-Component",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"items"
+	],
+	"name" : "STTComponentsList",
+	"type" : "normal"
+}

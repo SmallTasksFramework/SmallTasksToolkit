@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "WAComponent",
+	"category" : "SmallTasksToolkit-Component",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "STTComponent",
+	"type" : "normal"
+}

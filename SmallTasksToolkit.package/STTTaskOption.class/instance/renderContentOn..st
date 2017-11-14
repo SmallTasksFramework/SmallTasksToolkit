@@ -12,4 +12,7 @@ renderContentOn: html
 						mediumSize: 2;
 						extraSmallSize: 2;
 						smallSize: 2;
-						with: [ html tbsButton class: 'toggle'; with: [ html tbsGlyphIcon perform: #iconPlus ] ] ] ]
+						with: [ html tbsButton
+								title: 'Add ' , self name;
+								class: 'toggle';
+								with: [ html tbsGlyphIcon iconPlus ] ] ] ]

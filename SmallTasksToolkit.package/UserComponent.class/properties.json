@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "AbstractTransformer",
+	"category" : "SmallTasksToolkit-Valuable",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "UserComponent",
+	"type" : "normal"
+}

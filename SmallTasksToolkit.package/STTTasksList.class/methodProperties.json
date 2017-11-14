@@ -1,0 +1,23 @@
+{
+	"instance" : {
+		"next" : "UlisesJeremias 11/11/2017 01:53",
+		"removeTask:" : " 11/10/2017 16:55:08",
+		"tasks:" : "UlisesJeremias 11/14/2017 00:26",
+		"children" : " 11/10/2017 16:55:08",
+		"pipelineSwitcher:" : "UlisesJeremias 11/11/2017 02:13",
+		"renderContentOn:" : "UlisesJeremias 11/11/2017 02:31",
+		"previous:" : "UlisesJeremias 11/11/2017 01:53",
+		"id" : " 11/10/2017 16:55:08",
+		"previous" : "UlisesJeremias 11/11/2017 01:52",
+		"initialize" : "UlisesJeremias 11/11/2017 02:45",
+		"addTask:" : "UlisesJeremias 11/11/2017 02:13",
+		"id:" : " 11/10/2017 16:55:08",
+		"tasks" : "UlisesJeremias 11/14/2017 00:26",
+		"pipelineSwitcher" : "UlisesJeremias 11/11/2017 02:14",
+		"next:" : "UlisesJeremias 11/11/2017 01:53"
+	},
+	"class" : {
+		"newWithId:from:to:" : "UlisesJeremias 11/11/2017 02:34",
+		"newWithId:tasks:" : " 11/10/2017 16:55:08"
+	}
+}

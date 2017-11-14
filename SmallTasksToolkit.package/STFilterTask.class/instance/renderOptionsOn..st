@@ -8,8 +8,7 @@ renderOptionsOn: html
 				class: 'form-control';
 				id: 'filter-option';
 				list: self options;
-				enabled: [ :each | each notNil ];
-				labels: [ :each | each first ];
 				selected: self filterOption;
-				callback: [ :value | self filterOption: value ];
-				onClick: html jQuery ajax serializeThis]
+				enabled: [ :each | each notNil ];
+				labels: [ :each | each first ];callback: [ :value | self filterOption: value ];
+				onClick: html jQuery ajax serializeThis ]

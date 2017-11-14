@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "",
+	"super" : "STTProviderComponent",
+	"category" : "SmallTasksToolkit-Component",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"taskCollection",
+		"pipelineSwitcher"
+	],
+	"name" : "STTTasksProvider",
+	"type" : "normal"
+}

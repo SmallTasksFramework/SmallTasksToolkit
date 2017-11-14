@@ -1,6 +1,6 @@
 {
 	"commentStamp" : "",
-	"super" : "WAComponent",
+	"super" : "STTComponent",
 	"category" : "SmallTasksToolkit-Component",
 	"classinstvars" : [
 		"instance"
@@ -8,7 +8,7 @@
 	"pools" : [ ],
 	"classvars" : [ ],
 	"instvars" : [
-		"hashtag"
+		"settings"
 	],
 	"name" : "STTTwitterSettings",
 	"type" : "normal"

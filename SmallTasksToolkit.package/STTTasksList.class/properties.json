@@ -1,0 +1,16 @@
+{
+	"commentStamp" : "",
+	"super" : "STTComponentsList",
+	"category" : "SmallTasksToolkit-Component",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"pipelineSwitcher",
+		"id",
+		"next",
+		"previous"
+	],
+	"name" : "STTTasksList",
+	"type" : "normal"
+}

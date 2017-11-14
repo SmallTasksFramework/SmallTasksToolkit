@@ -1,0 +1,3 @@
+builder
+tasksProvider
+	^ STTTasksProvider 

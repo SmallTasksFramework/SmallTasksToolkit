@@ -2,17 +2,17 @@ accessing
 options
 	^ OrderedCollection
 		with:
-			{'username'.
+			{'Username'.
 			[ :anObject | anObject user name ]}
 		with:
-			{'text size'.
+			{'Text size'.
 			[ :anObject | anObject text size ]}
 		with:
-			{'amount of words'.
+			{'Amount of words'.
 			[ :anObject | anObject text substrings size ]}
 		with:
-			{'language'.
-			[ :anObject | anObject lang ]}
+			{'Language'.
+			[ :anObject | anObject language ]}
 		with:
-			{'platform'.
+			{'Platform'.
 			[ :anObject | anObject source ]}

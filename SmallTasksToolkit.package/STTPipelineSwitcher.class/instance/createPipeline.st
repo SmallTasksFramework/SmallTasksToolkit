@@ -1,3 +1,3 @@
 accessing
 createPipeline
-	^ STTTaskList newWithId: 'currentTasks' tasks: OrderedCollection new
+	^ STTTasksList newWithId: 'currentTasks' tasks: OrderedCollection new

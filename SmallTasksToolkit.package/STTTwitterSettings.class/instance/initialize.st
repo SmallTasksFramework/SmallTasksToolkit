@@ -1,4 +1,4 @@
 initialization
 initialize
 	super initialize.
-	self hashtag: '#defaultHashtag'
+	self settings: SmallTasksToolkit controller app settings
