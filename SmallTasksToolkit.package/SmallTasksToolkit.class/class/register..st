@@ -1,7 +1,8 @@
 builder
 register: app
 	app
-		exceptionHandler: WADebugErrorHandler;
-		addLibrary: JQDevelopmentLibrary;
-		addLibrary: TBSDevelopmentLibrary;
+		exceptionHandler: STTErrorHandler;
+		addLibrary: JQDeploymentLibrary;
+		addLibrary: JQUiDeploymentLibrary ;
+		addLibrary: TBSDeploymentLibrary;
 		addLibrary: STTStyleSheets
