@@ -1,0 +1,24 @@
+{
+	"instance" : {
+		"tasks:" : " 11/10/2017 16:55:08",
+		"renderSettingsOn:" : " 11/10/2017 16:55:08",
+		"renderContentOn:" : "UlisesJeremias 11/12/2017 21:43",
+		"renderConfigButtonOn:" : "UlisesJeremias 11/13/2017 22:09",
+		"name" : " 11/10/2017 16:55:08",
+		"name:" : " 11/10/2017 16:55:08",
+		"initializeWith:in:" : " 11/10/2017 16:55:08",
+		"renderTaskOptionsOn:" : " 11/10/2017 16:55:08",
+		"renderDeleteButtonOn:" : "UlisesJeremias 11/13/2017 01:01",
+		"tasks" : " 11/10/2017 16:55:08",
+		"generateSmallTask" : "UlisesJeremias 11/12/2017 21:32",
+		"remove" : " 11/10/2017 16:55:08"
+	},
+	"class" : {
+		"mapperIn:" : "UlisesJeremias 11/15/2017 16:10",
+		"translatorIn:" : "UlisesJeremias 11/15/2017 16:11",
+		"filterIn:" : "UlisesJeremias 11/15/2017 16:10",
+		"renderingIn:" : "UlisesJeremias 11/15/2017 18:50",
+		"reporterIn:" : "UlisesJeremias 11/15/2017 16:10",
+		"newWith:in:" : " 11/10/2017 16:55:08"
+	}
+}

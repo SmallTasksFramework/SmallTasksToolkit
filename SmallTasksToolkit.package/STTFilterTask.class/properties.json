@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "",
+	"super" : "STTProcessorTask",
+	"category" : "SmallTasksToolkit-Model",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"filterOption",
+		"filterOperation",
+		"filterValue"
+	],
+	"name" : "STTFilterTask",
+	"type" : "normal"
+}

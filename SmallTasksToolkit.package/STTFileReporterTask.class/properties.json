@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "",
+	"super" : "STTProcessorTask",
+	"category" : "SmallTasksToolkit-Model",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"path",
+		"fileExtension"
+	],
+	"name" : "STTFileReporterTask",
+	"type" : "normal"
+}

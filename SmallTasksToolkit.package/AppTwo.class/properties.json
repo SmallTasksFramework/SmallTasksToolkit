@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "AbstractApp",
+	"category" : "SmallTasksToolkit-Examples",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "AppTwo",
+	"type" : "normal"
+}

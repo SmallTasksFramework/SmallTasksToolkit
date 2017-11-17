@@ -2,8 +2,9 @@
 	"instance" : {
 		"initialize" : "UlisesJeremias 11/14/2017 10:57",
 		"items" : "UlisesJeremias 11/14/2017 00:15",
-		"renderContentOn:" : "UlisesJeremias 11/14/2017 11:19",
+		"renderContentOn:" : "UlisesJeremias 11/15/2017 20:41",
 		"items:" : "UlisesJeremias 11/14/2017 00:15",
+		"renderMessageOn:" : "UlisesJeremias 11/15/2017 20:49",
 		"children" : "UlisesJeremias 11/14/2017 00:16"
 	},
 	"class" : { }

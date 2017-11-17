@@ -2,6 +2,7 @@ SystemOrganization addCategory: #SmallTasksToolkit!
 SystemOrganization addCategory: 'SmallTasksToolkit-App'!
 SystemOrganization addCategory: 'SmallTasksToolkit-Component'!
 SystemOrganization addCategory: 'SmallTasksToolkit-Controller'!
+SystemOrganization addCategory: 'SmallTasksToolkit-Examples'!
 SystemOrganization addCategory: 'SmallTasksToolkit-Handler'!
 SystemOrganization addCategory: 'SmallTasksToolkit-Kernel'!
 SystemOrganization addCategory: 'SmallTasksToolkit-Library'!

@@ -1,3 +1,3 @@
 builder
 processorTask
-	^ STProcessorTask 
+	^ STTProcessorTask 

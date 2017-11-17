@@ -1,3 +1,0 @@
-builder
-component
-	^ self subclassResponsibility 

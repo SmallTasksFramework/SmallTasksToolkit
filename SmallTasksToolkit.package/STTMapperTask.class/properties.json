@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "",
+	"super" : "STTProcessorTask",
+	"category" : "SmallTasksToolkit-Model",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"transformer"
+	],
+	"name" : "STTMapperTask",
+	"type" : "normal"
+}
