@@ -1,0 +1,1 @@
+I contain a sequence of operations. I permit to defer the enclosed operations until I execute a variant of #value. I can have my own arguments and temporaries as a regular method, but I am also able to use external variables: my enclosing method or block temporaries, arguments and receiver.

@@ -1,0 +1,1 @@
+I am a class used to access some of the main classes of SmallTasksToolkit. See my class side to have an idea of what can I give you. At the same time, I define the basic behavior of any usable component of the library
